@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/QA%20Engineer-in%20progress-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cypress-tests-green?style=for-the-badge&logo=cypress" />
   <img src="https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" />
 </p>
 
 ---
@@ -23,6 +24,7 @@ Atualmente estudo **Cypress**, **Postman** e estou me preparando para certifica�
 - `05-cenarios-bdd/` → Cenários em Gherkin/BDD  
 - `06-regressivo/` → Regressivo, levantamento de bugs e melhorias  
 - `07-templates/` → Templates reutilizáveis (Bug Report, Checklist de Liberação etc.)  
+- `docs/` → [📘 Guia de Commits & Fluxo de Trabalho](docs/guia-de-commits-e-fluxo.md)  
 
 ---
 
@@ -55,6 +57,8 @@ Atualmente estudo **Cypress**, **Postman** e estou me preparando para certifica�
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dianedematos)  
 - ✉️ **qualidade.diane@gmail.com**  
 
+---
 
 <p align="center">✨ Construindo qualidade com testes, cores e flores 🌸</p>
+
 

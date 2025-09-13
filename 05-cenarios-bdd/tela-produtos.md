@@ -1,7 +1,7 @@
 # 🧪 Cenários de Testes – Tela de Produtos
 
 ## Funcionalidade: Acesso aos Produtos
-Eu como usuário da Lojinha Financeira  
+Eu como usuário da Loja  
 Quero acessar a página de produtos  
 Para visualizar todos os produtos  
 E poder acessar o detalhe de cada um
