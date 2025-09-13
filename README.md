@@ -1,4 +1,4 @@
-<h1 align="center">🌸 QA Portfólio — Diane de Matos</h1>
+<h1 align="center">🌸 QA Portfólio — Diane de Matos 🌸</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA%20Engineer-in%20progress-blueviolet?style=for-the-badge" />
