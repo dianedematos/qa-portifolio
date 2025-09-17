@@ -1,64 +1,70 @@
-<h1 align="center">🌸 QA Portfólio — Diane de Matos 🌸</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QA%20Engineer-in%20progress-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cypress-tests-green?style=for-the-badge&logo=cypress" />
-  <img src="https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" />
-</p>
+# 🌿 QA Portfólio — Diane de Matos 🌸  
+
+<img src="Simbiose%20Entre%20Tecnologia%20e%20Natureza.png" width="800" alt="Identidade visual com natureza e QA" />
+
+✨ **Levando afeto para o mundo digital através de testes, cores e flores** ✨  
+
+</div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🌱 Sobre mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada por **Qualidade de Software**.  
-Atualmente estudo **Cypress**, **Postman** e estou me preparando para certificações **CTFL/CTFL-AT**.  
-🎯 Meu objetivo é evoluir para **Engenheira de Qualidade** e este portfólio documenta minha jornada.  
+Atualmente estudo **Cypress**, **Postman** e me preparo para certificações **CTFL / CTFL-AT**.  
+🎯 Meu objetivo é crescer como **Engenheira de Qualidade**, criando soluções que unem tecnologia e cuidado.  
 
 ---
 
-## 📂 Estrutura do Repositório
-- `01-introducao/` → Fundamentos e visão de qualidade de software  
-- `02-tipos-de-testes/` → Principais tipos de testes manuais  
-- `03-documentacoes/` → Documentações importantes (Test Plan, Bug Report, etc.)  
-- `04-casos-de-teste/` → Exemplos de casos de teste  
-- `05-cenarios-bdd/` → Cenários em Gherkin/BDD  
-- `06-regressivo/` → Regressivo, levantamento de bugs e melhorias  
-- `07-templates/` → Templates reutilizáveis (Bug Report, Checklist de Liberação etc.)  
-- `docs/` → [📘 Guia de Commits & Fluxo de Trabalho](docs/guia-de-commits-e-fluxo.md)  
+## 🌳 Estrutura do Repositório
+
+📂 Minha floresta de conhecimento em QA:  
+
+- 🍃 `01-introducao/` → Fundamentos de Qualidade de Software  
+- 🌸 `02-tipos-de-testes/` → Testes Manuais, Exploratório, Regressão  
+- 🐞 `03-documentacoes/` → Planos de Teste, Relatórios, Bug Report  
+- 🌼 `04-casos-de-teste/` → Exemplos práticos de casos de teste  
+- 🌿 `05-cenarios-bdd/` → Cenários Gherkin (BDD)  
+- 🍂 `06-regressivo/` → Levantamento de bugs e melhorias  
+- 🌻 `07-templates/` → Templates reutilizáveis (checklists, bug report)  
+- 📘 `docs/` → [Guia de Commits & Fluxo de Trabalho](docs/guia-de-commits-e-fluxo.md)  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- 🧪 **Cypress** → automação de testes Web  
-- 📬 **Postman** → testes de API REST  
-- 🐙 **Git & GitHub** → versionamento e portfólio  
-- 📊 **Markdown** → documentação clara e estruturada  
+## 🌲 Ferramentas & Tecnologias
+- 🧪 **Cypress** → Automação de testes web  
+- 📬 **Postman** → Testes de API REST  
+- 🐙 **Git & GitHub** → Versionamento e colaboração  
+- 📊 **Markdown** → Documentação clara e acessível  
 
 ---
 
-## 📘 Exemplos em Destaque
-- ✅ **Template de Caso de Teste** — documentação simples e reutilizável  
-- ✅ **Cenários BDD (Gherkin)** — comunicação clara entre QA, DEV e Negócio  
-- ✅ **Bug Report Template** — registro padronizado de defeitos  
-- ✅ **Regressivo** — checklist de validação de produto em produção  
+## 🌺 Exemplos em Destaque
+- ✅ Template de Caso de Teste  
+- ✅ Cenários BDD em Gherkin  
+- ✅ Relatórios de Teste & Bug Report  
+- ✅ Checklist de Regressivo  
 
 ---
 
-## 📈 Roadmap de Aprendizado
+## 🌵 Roadmap de Evolução
 - [x] Estrutura inicial de documentação  
-- [x] Exemplos práticos Cypress/Postman  
+- [ ] Exemplos práticos Cypress & Postman  
 - [ ] Publicar estudo de caso real com BDD  
 - [ ] Concluir certificação **CTFL-AT**  
-- [ ] Ampliar automações com pipelines CI/CD  
+- [ ] Expandir automações com CI/CD  
 
 ---
 
-## 📬 Contato
+## 🌼 Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dianedematos)  
-- ✉️ **qualidade.diane@gmail.com**  
+- ✉️ **dqualidade.diane@gmail.com**
 
 ---
 
-<p align="center">✨ Construindo qualidade com testes, cores e flores 🌸</p>
+<div align="center">
 
+🌳 *Como uma floresta que cresce com cuidado, meu portfólio floresce com testes, aprendizado e evolução.* 🌸  
 
+</div>
