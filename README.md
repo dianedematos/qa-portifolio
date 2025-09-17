@@ -4,7 +4,7 @@
 
 <img src="Simbiose%20Entre%20Tecnologia%20e%20Natureza.png" width="800" alt="Identidade visual com natureza e QA" />
 
-✨ **Levando afeto para o mundo digital através de testes, cores e flores** ✨  
+
 
 </div>
 
