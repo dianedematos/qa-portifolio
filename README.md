@@ -55,7 +55,7 @@ Atualmente estudo **Cypress**, **Postman** e me preparo para certificações **C
 
 ## 🌼 Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dianedematos)  
-- ✉️ **dqualidade.diane@gmail.com**
+- ✉️ **dihnanny@gmail.com**
 
 ---
 
@@ -64,3 +64,4 @@ Atualmente estudo **Cypress**, **Postman** e me preparo para certificações **C
 🌳 *Como uma floresta que cresce com cuidado, meu portfólio floresce com testes, aprendizado e evolução.* 🌸  
 
 </div>
+sadasdasdas
